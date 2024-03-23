@@ -2,6 +2,9 @@
 
 This repository contains Python code for performing Market Basket Analysis using the Apriori Algorithm. It provides insights into customer purchasing behavior, which can be valuable for retail and e-commerce businesses.
 
+![Heatmap matrix of product associations](https://raw.githubusercontent.com/nafisalawalidris/Market-Basket-Analysis-using-Apriori-Algorithm/main/scatter%20plot%20of%20association%20rules.png)
+
+
 ## Introduction
 
 Market Basket Analysis is a data mining technique used to uncover associations between products purchased together by customers. The Apriori Algorithm is commonly used for this task as it efficiently identifies frequent itemsets and association rules from transaction data.
