@@ -2,8 +2,7 @@
 
 This repository contains Python code for performing Market Basket Analysis using the Apriori Algorithm. It provides insights into customer purchasing behavior, which can be valuable for retail and e-commerce businesses.
 
-![Heatmap matrix of product associations](https://raw.githubusercontent.com/nafisalawalidris/Market-Basket-Analysis-using-Apriori-Algorithm/main/scatter%20plot%20of%20association%20rules.png)
-
+![Heatmap matrix of product associations](https://raw.githubusercontent.com/nafisalawalidris/Market-Basket-Analysis-using-Apriori-Algorithm/main/Heatmap%20matrix%20of%20product%20associations.png)
 
 ## Introduction
 
