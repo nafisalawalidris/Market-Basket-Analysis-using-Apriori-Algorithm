@@ -26,9 +26,10 @@ To use this code for Market Basket Analysis:
    ```bash
    git clone https://github.com/nafisalawalidris/Market-Basket-Analysis-using-Apriori-Algorithm.git
 
-License
+
+## License
 This project is licensed under the MIT License.
 
-If you find this project helpful, consider giving it a star and contributing. Thank you!
+### If you find this project helpful, consider giving it a star and contributing. Thank you!
 
 You can copy and paste this markdown content into your repository's README.md file on GitHub. Don't forget to replace the placeholder GitHub username and repository URL with your own.
